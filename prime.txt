@@ -1,4 +1,4 @@
-Program to print the sum of all prime numbers between 1 to limit
+Program to print the sum of all prime numbers between 1 to entered limit
 echo "Enter the limit:"
 read n
 m=$n
